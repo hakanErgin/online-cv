@@ -53,13 +53,13 @@ career-profile:
   summary: |
     I started learning web development during my bootcamp education, last year. The curriculum involved programming basics and was based on Javascript and its popular JS libraries. Following the bootcamp, I had an internship where I worked on mobile platform using similar web technologies to develop an application from scratch.
 education:
-  - degree: Web development and programming basics
+  - degree: Web Development and Programming Basics Education
     university: HackYourFuture-BE, Brussels
     time: May - Dec 2019
     details: |
       Fundamental training on HTML, CSS, JavaScript, Node, Databasing in MySQL/MongoDB and React
 experiences:
-  - role: Mobile Application Developer Internship
+  - role: Mobile Application Development Internship
     time: June - October 2020
     company: Speech Act, Brussels
     details: |
@@ -67,11 +67,11 @@ experiences:
 projects:
   title: Projects
   intro: >
-    Some example projects I made as an excercise:
+    Some example projects I made for practicing different technologies
   assignments:
     - title: Projects board
       link: https://obscure-lake-43497.herokuapp.com/
-      tagline: 'A board for managing your projects. React, Graphql, Apollo toolset'
+      tagline: 'A board for managing your projects. React, Graphql, Apollo toolset, Typescript'
 
     - title: Phone book
       link: https://aqueous-brook-88113.herokuapp.com/
@@ -81,7 +81,7 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Javascript
+    - name: Javascript (ES6, Typescript)
       level: 75%
 
     - name: HTML & CSS
