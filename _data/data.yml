@@ -70,11 +70,11 @@ projects:
     Some example projects I made as an excercise:
   assignments:
     - title: Projects board
-      link: obscure-lake-43497.herokuapp.com
+      link: https://obscure-lake-43497.herokuapp.com/
       tagline: 'A board for managing your projects. React, Graphql, Apollo toolset'
 
     - title: Phone book
-      link: aqueous-brook-88113.herokuapp.com
+      link: https://aqueous-brook-88113.herokuapp.com/
       tagline: 'Simple application that keeps contacts in your database. MERN stack'
 
 skills:
@@ -84,11 +84,11 @@ skills:
     - name: Javascript
       level: 75%
 
+    - name: HTML & CSS
+      level: 75%
+
     - name: ReactJs & React Native
       level: 75%
 
     - name: NodeJs & GraphQL & Apollo toolset
-      level: 75%
-
-    - name: HTML & CSS
       level: 75%
