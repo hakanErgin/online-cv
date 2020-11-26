@@ -13,7 +13,7 @@ sidebar:
 
   # Sidebar links
   email: hakan.ergin@gmail.com
-  phone: 0465835109
+  phone: 0465 83 51 09
   website: #do not add http://
   linkedin: hakan-ergin-a6710854
   github: hakanErgin
@@ -51,10 +51,10 @@ sidebar:
 career-profile:
   title: About me
   summary: |
-    I started learning web development during my bootcamp education, last year. The curriculum involved programming basics and was based on Javascript and its some of the most popular libraries. Following the bootcamp, I had an internship where I worked on mobile platform using similar web technologies to develop an application from scratch.
+    I started learning web development during my bootcamp education, last year. The curriculum involved programming basics and was based on Javascript and its popular JS libraries. Following the bootcamp, I had an internship where I worked on mobile platform using similar web technologies to develop an application from scratch.
 education:
   - degree: Web development and programming basics
-    university: HackYourFuture - BE
+    university: HackYourFuture-BE, Brussels
     time: May - Dec 2019
     details: |
       Fundamental training on HTML, CSS, JavaScript, Node, Databasing in MySQL/MongoDB and React
@@ -67,14 +67,14 @@ experiences:
 projects:
   title: Projects
   intro: >
-    Some examples:
+    Some example projects I made as an excercise:
   assignments:
     - title: Projects board
-      link: 'obscure-lake-43497.herokuapp.com'
+      link: obscure-lake-43497.herokuapp.com
       tagline: 'A board for managing your projects. React, Graphql, Apollo toolset'
 
     - title: Phone book
-      link: 'aqueous-brook-88113.herokuapp.com'
+      link: aqueous-brook-88113.herokuapp.com
       tagline: 'Simple application that keeps contacts in your database. MERN stack'
 
 skills:
