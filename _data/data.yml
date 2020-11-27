@@ -85,7 +85,7 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Javascript (ES6, Typescript)
+    - name: Javascript & Typescript
       level: 66%
 
     - name: HTML & CSS
