@@ -15,8 +15,8 @@ sidebar:
   email: hakan.ergin@gmail.com
   phone: 0465 83 51 09
   website: #do not add http://
-  linkedin: hakan-ergin-a6710854
   github: hakanErgin
+  linkedin: hakan-ergin-a6710854
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
@@ -51,9 +51,9 @@ sidebar:
 career-profile:
   title: About me
   summary: |
-    I started learning web development during my bootcamp education, last year. The curriculum involved programming basics and was based on Javascript and its popular JS libraries. Following the bootcamp, I had an internship where I worked on mobile platform using similar web technologies to develop an application from scratch.
+    I started learning web development with a bootcamp education, last year. The curriculum involved programming basics and web development technologies, such as Javascript and its popular JS libraries. Following the bootcamp, I had an intensive internship where I worked on mobile platform using similar web tools to develop an application from scratch.
 education:
-  - degree: Web Development and Programming Basics Education
+  - degree: Web Development and Programming Basics Bootcamp
     university: HackYourFuture-BE, Brussels
     time: May - Dec 2019
     details: |
@@ -67,28 +67,32 @@ experiences:
 projects:
   title: Projects
   intro: >
-    Some example projects I made for practicing different technologies
+    Some examples. Project repositories can be found in my github page
   assignments:
-    - title: Projects board
+    - title: Projects-board
       link: https://obscure-lake-43497.herokuapp.com/
       tagline: 'A board for managing your projects. React, Graphql, Apollo toolset, Typescript'
 
-    - title: Phone book
+    - title: Phone-book
       link: https://aqueous-brook-88113.herokuapp.com/
       tagline: 'Simple application that keeps contacts in your database. MERN stack'
+
+    - title: Bootcamp project - Gitpro
+      link: https://portfolio-d9052.firebaseapp.com/
+      tagline: 'Web application for developers to create portfolios. A group project made at the end of the bootcamp'
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
     - name: Javascript (ES6, Typescript)
-      level: 75%
+      level: 66%
 
     - name: HTML & CSS
-      level: 75%
+      level: 66%
 
     - name: ReactJs & React Native
-      level: 75%
+      level: 66%
 
     - name: NodeJs & GraphQL & Apollo toolset
-      level: 75%
+      level: 66%
