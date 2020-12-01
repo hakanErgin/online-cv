@@ -51,7 +51,7 @@ sidebar:
 career-profile:
   title: About me
   summary: |
-    I started learning web development with a bootcamp education, last year. The curriculum involved programming basics and web development technologies, such as Javascript and its popular JS libraries. Following the bootcamp, I had an intensive internship where I worked on mobile platform using similar web tools to develop an application from scratch.
+    Last year, I started learning web development with a bootcamp education. The curriculum involved programming basics and web development technologies, such as Javascript and its popular libraries. Following the bootcamp, I had an intensive internship where I worked on mobile platform using similar web tools to develop an application from scratch.
 education:
   - degree: Web Development and Programming Basics Bootcamp
     university: HackYourFuture-BE, Brussels
@@ -67,7 +67,7 @@ experiences:
 projects:
   title: Projects
   intro: >
-    Some examples. Project repositories can be found in my github page
+    Some example projects. Their repositories can be found in my github page
   assignments:
     - title: Projects-board
       link: https://obscure-lake-43497.herokuapp.com/
