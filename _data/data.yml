@@ -77,9 +77,9 @@ projects:
       link: https://aqueous-brook-88113.herokuapp.com/
       tagline: 'Simple application that keeps contacts in your database. MERN stack'
 
-    - title: Bootcamp project - Gitpro
-      link: https://portfolio-d9052.firebaseapp.com/
-      tagline: 'Web application for developers to create portfolios. A group project made at the end of the bootcamp'
+    # - title: Bootcamp project - Gitpro
+    #   link: https://portfolio-d9052.firebaseapp.com/
+    #   tagline: 'Web application for developers to create portfolios. A group project made at the end of the bootcamp'
 
 skills:
   title: Skills &amp; Proficiency
