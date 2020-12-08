@@ -67,7 +67,7 @@ experiences:
 projects:
   title: Projects
   intro: >
-    Some example projects
+    Some example projects. Please note that the links take a moment to wake up
   assignments:
     - title: Projects-board
       link: https://obscure-lake-43497.herokuapp.com/
