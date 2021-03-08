@@ -51,7 +51,7 @@ sidebar:
 career-profile:
   title: About me
   summary: |
-    After finishing my initial training on web development at the end of 2019, I had the opportunity to have an internship on mobile development using web technologies (react native). Following this, I started building a real-life application that could be useful to prevent bicycle thefts. Right now the beta version of it is available for android devices on google play store, and I am investing my time on improving it.
+    After finishing my initial training on web development at the end of 2019, I had the opportunity to have an internship on mobile development using web technologies (react native). Following this, I started building my own real-life project that could be useful to prevent bicycle thefts. Right now the beta version of this application is available for android devices on google play store, and I am investing my time on improving it.
   education:
     - degree: Web Development and Programming Basics Bootcamp
       university: HackYourFuture-BE, Brussels
