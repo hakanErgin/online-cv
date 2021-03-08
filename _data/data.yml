@@ -51,7 +51,7 @@ sidebar:
 career-profile:
   title: About me
   summary: |
-    After finishing my initial training on web development at the end of 2019, I had the opportunity to have an internship on mobile development using web technologies (react native). Following this, I started building a real-life application that could be useful. Right now the beta version of it is available for android devices on google play store, and I am investing my time on improving it.
+    After finishing my initial training on web development at the end of 2019, I had the opportunity to have an internship on mobile development using web technologies (react native). Following this, I started building a real-life application that could be useful to prevent bicycle thefts. Right now the beta version of it is available for android devices on google play store, and I am investing my time on improving it.
   education:
     - degree: Web Development and Programming Basics Bootcamp
       university: HackYourFuture-BE, Brussels
@@ -67,7 +67,7 @@ experiences:
 projects:
   title: Projects
   intro: >
-
+    Project repositories can be found on my github page.
   assignments:
     - title: Projects-board
       link: https://obscure-lake-43497.herokuapp.com/
@@ -81,4 +81,4 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Javascript & Typescript & HTML & CSS & ReactJs & React Native & NodeJs & GraphQL & Apollo Toolset & RestAPI
+    - name: Javascript - Typescript - HTML - CSS - ReactJs - React Native - NodeJs - GraphQL - Apollo Toolset - RestAPI
