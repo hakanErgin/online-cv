@@ -51,13 +51,13 @@ sidebar:
 career-profile:
   title: About me
   summary: |
-    Last year I started learning web development with a bootcamp education. The curriculum involved programming basics and web development technologies, such as Javascript and its popular libraries. Following the bootcamp, I had an intensive internship where I worked on mobile platform using similar web tools to develop an application from scratch.
-education:
-  - degree: Web Development and Programming Basics Bootcamp
-    university: HackYourFuture-BE, Brussels
-    time: May - Dec 2019
-    details: |
-      Fundamental training on HTML, CSS, JavaScript, Node, Databasing in MySQL/MongoDB and React
+    After finishing my initial training on web development at the end of 2019, I had the opportunity to have an internship on mobile development using web technologies (react native). Following this, I started building a real-life application that could be useful. Right now the beta version of it is available for android devices on google play store, and I am investing my time on improving it.
+  education:
+    - degree: Web Development and Programming Basics Bootcamp
+      university: HackYourFuture-BE, Brussels
+      time: May - Dec 2019
+      details: |
+        Fundamental training on HTML, CSS, JavaScript, Node, Databasing in MySQL/MongoDB and React
 experiences:
   - role: Mobile Application Development Internship
     time: June - October 2020
@@ -67,32 +67,18 @@ experiences:
 projects:
   title: Projects
   intro: >
-    Some example projects. Please note that the links may take a moment to wake up
+
   assignments:
     - title: Projects-board
       link: https://obscure-lake-43497.herokuapp.com/
-      tagline: 'A board for managing your projects. React, Graphql, Apollo toolset, Typescript'
+      tagline: 'A basic board for managing sample projects and contributers. I wanted to create a simple and efficient CRUD application and improve my styling skills meanwhile.'
 
-    - title: Phone-book
+    - title: Bike theft tracker
       link: https://aqueous-brook-88113.herokuapp.com/
-      tagline: 'Simple application that keeps contacts in your database. MERN stack'
-
-    - title: Bootcamp project - Gitpro
-      link: https://portfolio-d9052.firebaseapp.com/
-      tagline: 'Web application for developers to create portfolios. A group project made at the end of the bootcamp'
+      tagline: 'Bike theft tracker tries to increase bicycle safety. Users can check the heatmap provided and see if there are previously stolen bikes in an area to make sure it is safe to park their bikes. Or if they have a stolen bike to report, they can declare a theft with location, date and info about their bike (including photos). So that next user can check the safety of the area.'
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Javascript & Typescript
-      level: 66%
-
-    - name: HTML & CSS
-      level: 66%
-
-    - name: ReactJs & React Native
-      level: 66%
-
-    - name: NodeJs & GraphQL & RestAPI
-      level: 66%
+    - name: Javascript & Typescript & HTML & CSS & ReactJs & React Native & NodeJs & GraphQL & Apollo Toolset & RestAPI
