@@ -69,13 +69,13 @@ projects:
   intro: >
     Project repositories can be found on my github page.
   assignments:
+    - title: Bike theft tracker
+      link: https://play.google.com/store/apps/details?id=com.bike_theft_client
+      tagline: 'Bike theft tracker tries to increase bicycle safety. Users can check the heatmap provided and see if there are previously stolen bikes in an area to make sure it is safe to park their bikes. Or if they have a stolen bike to report, they can declare a theft with location, date and info about their bike (including photos). So that next user can check the safety of the area.'
+
     - title: Projects-board
       link: https://obscure-lake-43497.herokuapp.com/
       tagline: 'A basic board for managing sample projects and contributers. I wanted to create a simple and efficient CRUD application and improve my styling skills meanwhile.'
-
-    - title: Bike theft tracker
-      link: https://aqueous-brook-88113.herokuapp.com/
-      tagline: 'Bike theft tracker tries to increase bicycle safety. Users can check the heatmap provided and see if there are previously stolen bikes in an area to make sure it is safe to park their bikes. Or if they have a stolen bike to report, they can declare a theft with location, date and info about their bike (including photos). So that next user can check the safety of the area.'
 
 skills:
   title: Skills &amp; Proficiency
