@@ -67,11 +67,11 @@ experiences:
 projects:
   title: Projects
   intro: >
-    Project repositories can be found on my github page.
+    For project repositories, please see my GitHub page
   assignments:
     - title: Bike theft tracker
       link: https://play.google.com/store/apps/details?id=com.bike_theft_client
-      tagline: 'Bike theft tracker tries to increase bicycle safety. Users can check the heatmap provided and see if there are previously stolen bikes in an area to make sure it is safe to park their bikes. Or if they have a stolen bike to report, they can declare a theft with location, date and info about their bike (including photos). So that next user can check the safety of the area. (React Native client on Google Play Store - GraphQL on server Google Cloud Run)'
+      tagline: 'Bike theft tracker tries to increase bicycle safety. Users can check the heatmap provided and see if there are previously stolen bikes in an area to make sure it is safe to park their bikes. Or if they have a  bike stolen to report, they can declare a theft with location, date and information about their bike. So that next user can check the safety of the area. (React Native client on Google Play Store - GraphQL on server Google Cloud Run)'
 
     - title: Projects-board
       link: https://obscure-lake-43497.herokuapp.com/
